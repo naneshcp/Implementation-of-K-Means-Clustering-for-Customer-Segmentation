@@ -61,9 +61,9 @@ plt.show()
 
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
-![output10i(ml)](https://github.com/user-attachments/assets/e2661d55-ca9e-407c-9354-332e12bd3db7)
-
-![output10ii(ml)](https://github.com/user-attachments/assets/a1e248cb-7c96-4f28-8332-2efbb7e76ec8)
+![output10(ml)i](https://github.com/user-attachments/assets/1ef9ad32-72c8-4e09-b8e1-b564b25bde14)
+![output10(ml)ii](https://github.com/user-attachments/assets/91d94add-301c-4579-8d90-d964c0c6188a)
+![output10(ml)iii](https://github.com/user-attachments/assets/2e76aa93-8f5a-41a6-b80d-0c7354be5848)
 
 
 ## Result:
